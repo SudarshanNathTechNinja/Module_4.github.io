@@ -1,0 +1,16 @@
+#header{
+    font-family: 'Monoton', cursive;
+    font-size:40px;
+    text-align:center;
+    color:#e60000;
+}
+#con{
+    text-align:center;
+    font-family: "Times New Roman", Times, serif;
+    font-size:20px;
+}
+#output{
+    font-family: "Times New Roman", Times, serif;
+    font-size:20px;
+    text-align:center;
+}
